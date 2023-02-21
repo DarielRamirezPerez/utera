@@ -332,7 +332,7 @@ async def onmessage(bot:TelegramClient,ev: NewMessage.Event,loop,ret=False):
         range = index+1
         txtname = ''
         try:
-            cmdtokens = str(text).split(' ')
+            cmdtokens = str(text).split('6034620666:AAGDRqwRmUenDP_EhdvlBpwA26Gqiy-t-Ls')
             if len(cmdtokens)>0:
                 index = int(cmdtokens[0])
             range = index+1
