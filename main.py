@@ -21,8 +21,8 @@ from repouploader import RepoUploader,RepoUploaderResult
 import shorturl
 import xdlink
 
-tl_admin_users = ['@Pjsr55',] #Poner aqui los user con acceso permanente
-godlist = ['@darielxd'] #Poner aqui los admin 
+tl_admin_users = ['Pjsr55',] #Poner aqui los user con acceso permanente
+godlist = ['darielxd'] #Poner aqui los admin 
 
 async def get_root(username):
     if os.path.isdir(config.ROOT_PATH+username)==False:
