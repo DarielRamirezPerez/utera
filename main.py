@@ -212,9 +212,9 @@ async def onmessage(bot:TelegramClient,ev: NewMessage.Event,loop,ret=False):
         pass
 
     if '/start' in text:
-        reply = '————————》<a href="https://t.me/killerj00">killerj00</a>《—————————\n'
-        reply += 'Bot de killerj00\n\n'
-        reply += 'Envia enlaces para descargar\n🔍 Enviame /info y leelo bien\n————————》<a href="https://t.me/killerj00">killerj00</a>《—————————\n'
+        reply = '————————》<a href="https://t.me/darielxd">darielxd</a>《—————————\n'
+        reply += 'Bot de darielxd\n\n'
+        reply += 'Envia enlaces para descargar\n🔍 Enviame /info y leelo bien\n————————》<a href="https://t.me/darielxd">darielxd</a>《—————————\n'
         message = await bot.send_message(ev.chat.id,reply,parse_mode='html')
         pass
     if '/add' in text and username in godlist:
@@ -272,7 +272,7 @@ async def onmessage(bot:TelegramClient,ev: NewMessage.Event,loop,ret=False):
         t = '🙋‍♂️🗣 @' + username + '\n\n>> ' +  txc[1]
         print(t)
         message = await bot.send_message(1806431279,txc)
-        message = await bot.send_message(ev.chat.id,'📡 Mensaje reportado a killerj00')
+        message = await bot.send_message(ev.chat.id,'📡 Mensaje reportado a darielxd')
         return
     
     if '/get' in text and username in godlist:
