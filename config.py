@@ -6,7 +6,7 @@ API_ID =24253609#
 API_HASH = '20c1618672d0d23844bf79d8a25de44f' #Tu api id de telegram
 SPLIT_FILE = 1024 * 1024 * int(os.environ.get('split_file','99'))
 ROOT_PATH = 'root/'
-ACCES_USERS = os.environ.get('tl_admin_user','Rebelde59').split(';')
+ACCES_USERS = os.environ.get('tl_admin_user','darielxd').split(';')
 
 static_proxy = 'socks5h://KHDKKGYGJDJEGKYHJDGFGGYJIJIDRDGGLGGJKH' #agrega si kieres tener un proxy statico Con @raydel0307 si kieres comprar un proxy
 PROXY = ProxyCloud.parse(static_proxy)
@@ -19,5 +19,5 @@ if PROXY:
 #los agregados mediante /add no es necesario
 #ponerlos valor 0 siempre
 
+space = {'darielxd}
 space['Pjsr55'] = 0
-space['darielxd'] = 0         
