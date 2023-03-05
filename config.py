@@ -19,5 +19,5 @@ if PROXY:
 #los agregados mediante /add no es necesario
 #ponerlos valor 0 siempre
 
-space = {'darielxd}
+space = {'darielxd'}
 space['Pjsr55'] = 0
