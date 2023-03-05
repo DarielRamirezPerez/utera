@@ -20,4 +20,4 @@ if PROXY:
 #ponerlos valor 0 siempre
 
 space = {'darielxd'}
-space['Pjsr55'] = 0
+space = {'Pjsr55'}
