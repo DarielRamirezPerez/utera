@@ -10,17 +10,17 @@
       "description": "Proxy Encriptado",
       "value": "socks5h://KHDKKGYGJDJEGKYHJDGFGGYJIJIDRDGGLGGJKH"
     },
-    "api_id": {
+    "api_id": {24253609
       "description": "Api Id de telegram",
-      "value": "12569968"
+      "value": "24253609"
     },
-    "api_hash": {
+    "api_hash": {20c1618672d0d23844bf79d8a25de44f
       "description": "Api Hash de telegram",
-      "value": "2d5b54d8745cab19f3bf12cfd77c4897"
+      "value": "20c1618672d0d23844bf79d8a25de44f"
     },
-    "tl_admin_user": {
+    "tl_admin_user": {darielxd
       "description": "Usuarios Permitidos",
-      "value": "killerj00"
+      "value": "darielxd"
     }
   }
 }
